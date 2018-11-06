@@ -1,0 +1,18 @@
+body {
+    margin: 0; padding: 0;
+    background-color: black;
+}
+
+video {
+    
+}
+
+video::-webkit-media-controls-panel {
+  display: none;
+    -webkit-appearance: none;
+}
+
+video::-webkit-media-controls {
+  display: none;
+  -webkit-appearance: none;
+}
